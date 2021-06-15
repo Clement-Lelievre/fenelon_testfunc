@@ -1,4 +1,5 @@
-# fenelon_testfunc
+# Pyhton BTS SN groupe projet
+
 Code and tests for my students @ fenelon ste Marie
 
 To run you tests you need to:
