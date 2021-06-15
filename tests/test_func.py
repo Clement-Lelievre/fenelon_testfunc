@@ -1,6 +1,6 @@
-from func import f, g
-import pytest
-from random import randint
+# from func import f, g
+# import pytest
+# from random import randint
 
 # # testing f
 # def test_argument_positif():
