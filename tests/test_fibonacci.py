@@ -11,7 +11,7 @@ from time import time
 #         return fib0
 #     if n == 1:
 #         return fib1
-#     return fib(n-2) + fib(n-1)
+#     return fib_recursive(n-2) + fib_recursive(n-1)
 
 def fib_exact(n):
     '''The closed-form solution to the Fibonacci series'''
